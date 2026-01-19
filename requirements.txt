@@ -1,0 +1,8 @@
+torch
+transformers
+biopython
+obonet
+scikit-learn
+numpy
+pandas
+tqdm
