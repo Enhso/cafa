@@ -3,3 +3,4 @@ protein_go_env/
 data/
 .env
 __pycache__/
+tmp/
