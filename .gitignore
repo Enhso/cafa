@@ -1,6 +1,10 @@
-ideas/
-protein_go_env/
-data/
+/ideas/
+/protein_go_env/
+/data
 .env
 __pycache__/
-tmp/
+/tmp/
+.github/
+spec_v0.md
+esm2_650m_train_embeddings.zip
+submission.zip
